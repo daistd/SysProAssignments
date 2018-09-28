@@ -4,7 +4,7 @@ Introduction to OS, Chapter 02
 Read [Introduction to OS](http://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf) and answer the following review questions.
 
 1. **What is an operating system? What does it do?** 
-    -**It is software wich one connect and manage Hardware with Software applications **
+    - **It is software wich one connect and manage Hardware with Software applications **
 2. **What is virtualization?** your answer goes here 
 3. **How does an OS provide access to its features?** your answer goes here 
 4. **What illusion does a virtualized CPU provide?** your answer goes here 
